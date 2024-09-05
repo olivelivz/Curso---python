@@ -1,2 +1,2 @@
 # Curso---python
-Curso de Python para Dados da EBAC
+Curso Introdutório de Python para Dados da EBAC
